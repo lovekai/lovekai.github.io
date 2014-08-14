@@ -4,9 +4,9 @@ Disallow: /
 
 Disallow: /*
 
-Disallow: *
+Disallow: /*
 
-Disallow: *?*
+Disallow: /*?*
 
 Disallow: /*?*
 
